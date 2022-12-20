@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "math.html",
+    "href": "math.html",
+    "title": "Math",
+    "section": "",
+    "text": "This first function is one that we all know and love - the add function!\n\nsource\n\nadd\n\n add (a, b)\n\nAdd two numbers.\nWith this function, we can do some cool things like the following:\n\ntest_eq(add(3, 4), 7)\n\n\nassert add(3, 4) == 7\n\nAnd the next function is like add, but more. Welcome multiply to the picture!\n\nsource\n\n\nmultiply\n\n multiply (a, b)\n\nMultiply two numbers.\n\nmultiply(5, 3)\n\n15\n\n\n\nmultiply(0, 3)\n\n0"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-tutorial",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-tutorial",
+    "section": "Install",
+    "text": "Install\npip install nbdev_tutorial"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-tutorial",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2"
+  }
+]
