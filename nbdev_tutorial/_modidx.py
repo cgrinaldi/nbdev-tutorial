@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://cgrinaldi.github.io',
                 'git_url': 'https://github.com/cgrinaldi/nbdev-tutorial',
                 'lib_path': 'nbdev_tutorial'},
-  'syms': {'nbdev_tutorial.core': {'nbdev_tutorial.core.foo': ('core.html#foo', 'nbdev_tutorial/core.py')}}}
+  'syms': { 'nbdev_tutorial.core': {'nbdev_tutorial.core.add': ('math.html#add', 'nbdev_tutorial/core.py')},
+            'nbdev_tutorial.math': { 'nbdev_tutorial.math.add': ('math.html#add', 'nbdev_tutorial/math.py'),
+                                     'nbdev_tutorial.math.multiply': ('math.html#multiply', 'nbdev_tutorial/math.py')}}}
